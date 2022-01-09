@@ -1,0 +1,18 @@
+{
+  "name": "wmvg-sales-bot",
+  "version": "1.0.0",
+  "description": "Sales bot for all publicly available photography pieces by Drift on ethereum blockchain",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "melvincapital.eth",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.1.0"
+  },
+  "type": "module"
+}
